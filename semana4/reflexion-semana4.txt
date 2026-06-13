@@ -1,0 +1,9 @@
+Es fundamental porque otorga soberanía tecnológica y autonomía a los ciudadanos frente a las grandes corporaciones. Al desarrollar sus propias herramientas, las comunidades pueden resolver sus necesidades locales exactas sin depender de software comercial costoso ni de licencias restrictivas.
+El uso de tecnologías abiertas como Node.js ofrece ventajas clave para la acción comunitaria:
+
+* Bajo costo: Elimina los pagos por derechos de uso y permite aprovechar infraestructuras compartidas.
+* Transparencia: El código abierto permite auditar cómo se gestionan los datos, garantizando la privacidad.
+* Gran comunidad: Node.js cuenta con millones de desarrolladores que comparten soluciones listas para usar.
+* Adaptabilidad: Cualquiera puede modificar el software para ajustarlo a los cambios del entorno social.
+* Sostenibilidad: El proyecto no muere si una empresa quiebra, ya que la comunidad mantiene el control. [1, 2, 3] 
+
