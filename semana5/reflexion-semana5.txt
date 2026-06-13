@@ -1,0 +1,10 @@
+Las APIs permiten organizar y distribuir reportes de las siguientes maneras:
+1. Centralización de reportes multiservicioUna API permite que una comunidad reciba alertas desde múltiples canales al mismo tiempo
+ (formularios web, bots de Telegram, mensajes de WhatsApp o aplicaciones móviles). 
+ El servidor procesa todos estos datos entrantes, los unifica en un solo formato estándar y los almacena de forma ordenada en una base de datos centralizada.
+ 2. Automatización de alertas en tiempo realEn lugar de que una persona deba reenviar manualmente una alerta de emergencia, las APIs pueden conectar sistemas de forma automática. Por ejemplo:Si un sensor comunitario detecta el desborde de un río, la API del sensor envía los datos al servidor.El servidor procesa la alerta y activa automáticamente la API de un servicio de mensajería (como Twilio o Telegram) para enviar un SMS masivo a todos los vecinos de la zona afectada en un segundo.
+ 3. Creación de mapas e indicadores públicosUna API bien estructurada puede exponer los datos históricos de reportes de manera segura para que otras herramientas los consuman. Esto permite:Alimentar un mapa comunitario en vivo que muestre zonas de riesgo, cortes de agua o centros de acopio.Permitir que colectivos vecinales descarguen los datos para generar estadísticas sobre las problemáticas más frecuentes del barrio, ayudando a sustentar demandas ante los gobiernos locales.4. Filtrado y categorización automáticaAl recibir la información a través de una API, los reportes se pueden clasificar inmediatamente mediante parámetros específicos:Tipo: 
+ Fuga de agua, cables caídos, seguridad vecinal.Ubicación:
+Coordenadas geográficas exactas del incidente.Gravedad:
+Prioridad alta, media o baja.Esto evita la saturación de los canales informativos 
+comunitarios y asegura que cada problema sea visible para las personas correctas.
