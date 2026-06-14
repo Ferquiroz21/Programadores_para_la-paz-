@@ -1,0 +1,8 @@
+Mantener un registro de cambios con Git es crucial porque funciona como una máquina del tiempo y un coordinador de tráfico para el código de un proyecto. 
+Evita la pérdida de información y permite que varias personas colaboren sin caos
+Puntos de restauración seguros: 
+Si un cambio reciente rompe la aplicación, puedes regresar a una versión estable anterior en segundos
+Historial de auditoría
+ Permite saber conexactitud quién hizo un cambio, cuándo lo hizo y por qué (a través de los mensajes de commit)
+ Trabajo en paralelo sin conflictos:
+  Las ramas (branches) permiten que un desarrollador cree una función nueva mientras otro corrige un error, sin modificar el código principal hasta que ambos terminen
