@@ -1,0 +1,8 @@
+Es importante que las plataformas tecnológicas funcionen de manera estable y
+ segura porque permiten que los usuarios accedan a la información y participen 
+ sin interrupciones. Una plataforma con fallas frecuentes puede afectar la comunicación y 
+ disminuir la confianza de la comunidad.
+Además, la seguridad del servidor protege los datos 
+y evita accesos no autorizados o pérdidas de información. 
+De esta manera, se garantiza un entorno confiable
+ que favorece la participación y el buen funcionamiento de la comunidad.
