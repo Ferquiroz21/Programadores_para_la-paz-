@@ -1,0 +1,19 @@
+Pruebas de las rutas del servidor
+
+1. Ruta GET /
+   Al acceder a esta ruta, el servidor responde con el mensaje: "Servidor activo". Sirve para verificar que el servidor está funcionando correctamente.
+
+2. Ruta GET /saludo
+   Al acceder a esta ruta, el servidor responde con el mensaje: "Hola comunidad". Su función es mostrar un saludo básico.
+
+3. Ruta GET /mensaje/:nombre
+   Esta ruta recibe un nombre como parámetro en la URL. Por ejemplo, al acceder a /mensaje/Juan, el servidor responde: "Hola Juan".
+
+4. Ruta POST /reporte
+   Esta ruta recibe un mensaje enviado en formato JSON. El servidor responde con un objeto JSON que confirma la recepción del reporte y muestra el mensaje recibido.
+
+Utilidad comunitaria de la ruta POST /reporte:
+Permite que los ciudadanos envíen reportes sobre problemas, necesidades o situaciones de interés en la comunidad. Esto facilita la recopilación de información para apoyar la búsqueda de soluciones.
+
+Resultado de las pruebas:
+Todas las rutas fueron probadas y respondieron correctamente según lo esperado.
