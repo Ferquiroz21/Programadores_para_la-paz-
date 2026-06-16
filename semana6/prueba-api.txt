@@ -1,0 +1,12 @@
+Prueba de reportes
+Al enviar un reporte mediante la ruta POST /reporte, el servidor recibe el mensaje enviado por el ciudadano en formato JSON.
+Por ejemplo, si se envía:
+{
+"mensaje": "Hay un hueco en la calle principal"
+}
+El servidor responde con:
+{
+"estado": "Reporte recibido",
+"mensaje": "Hay un hueco en la calle principal"
+}
+Esto confirma que el reporte fue recibido correctamente y muestra el contenido enviado por el usuario.
