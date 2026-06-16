@@ -1,0 +1,19 @@
+Explicación de comandos utilizados
+
+git status:
+Muestra el estado actual del repositorio, indicando los archivos modificados, nuevos o pendientes de guardar.
+
+git add .:
+Agrega todos los archivos modificados o nuevos al área de preparación para ser guardados.
+
+git commit -m "mensaje":
+Guarda los cambios realizados en el repositorio local junto con una descripción de los cambios.
+
+git push:
+Envía los cambios guardados en el repositorio local hacia GitHub para que queden almacenados en línea.
+
+node server.js:
+Inicia la ejecución del servidor Express definido en el archivo server.js.
+
+npm install:
+Instala las dependencias necesarias del proyecto especificadas en package.json.
