@@ -1,0 +1,6 @@
+Prueba de consulta de reportes
+Al consultar los reportes en la plataforma, el usuario puede visualizar la información registrada por los ciudadanos.
+Esto permite conocer las incidencias reportadas, como problemas de infraestructura, alumbrado público o recolección de residuos.
+La consulta facilita el seguimiento de cada caso y ayuda a verificar si ya fue atendido. 
+Además, mantiene un registro organizado de las situaciones que afectan a la comunidad. 
+Gracias a esta información, las autoridades y los ciudadanos pueden tomar decisiones y priorizar acciones para resolver los problemas identificados.
