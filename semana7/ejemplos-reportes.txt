@@ -1,0 +1,6 @@
+Reporte 1
+Tipo: Daño en vía pública
+Mensaje: Se reporta un hueco de gran tamaño en la calle principal del barrio. Este problema dificulta el tránsito de vehículos y representa un riesgo para peatones y ciclistas.
+Reporte 2
+Tipo: Alumbrado público
+Mensaje: Varias luminarias del parque comunitario no funcionan durante la noche. Se solicita revisión y reparación para mejorar la seguridad de los vecinos.
