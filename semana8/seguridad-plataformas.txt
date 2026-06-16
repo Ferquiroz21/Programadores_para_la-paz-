@@ -1,0 +1,6 @@
+Prácticas de seguridad para plataformas comunitarias
+1. Utilizar contraseñas seguras y cambiarlas periódicamente.
+2. Activar la autenticación en dos pasos para proteger las cuentas de los usuarios.
+3. No compartir datos personales o información sensible en espacios públicos de la plataforma.
+4. Mantener actualizados los sistemas y aplicaciones para corregir vulnerabilidades de seguridad.
+5. Verificar la identidad de los usuarios y reportar actividades sospechosas o intentos de fraude.
