@@ -1,0 +1,11 @@
+Incidencia 1
+
+Tipo: Alumbrado público
+
+Mensaje: Se reporta que las luces de la calle 10 no funcionan desde hace tres días, lo que dificulta la visibilidad durante la noche.
+
+Incidencia 2
+
+Tipo: Recolección de basura
+
+Mensaje: En el parque principal se han acumulado residuos debido a que el servicio de recolección no ha pasado esta semana. Se solicita atención.
