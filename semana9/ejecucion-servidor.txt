@@ -1,0 +1,4 @@
+Al ejecutar el comando `node server.js`, Node.js inicia la aplicación y pone en funcionamiento el servidor web.
+El servidor queda escuchando en el puerto 3000 y espera solicitudes de los usuarios. Cuando se accede a las rutas configuradas,
+el servidor envía las respuestas correspondientes. En la terminal aparece el mensaje "Servidor ejecutándose en puerto 3000", 
+indicando que el proceso se inició correctamente.
