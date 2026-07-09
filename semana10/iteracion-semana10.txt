@@ -1,0 +1,10 @@
+Las dos primeras tareas que realizaría serían registrar una incidencia 
+y consultar el listado de reportes,
+ya que son funciones esenciales para que la comunidad pueda informar problemas
+y hacer seguimiento a los casos registrados. Estas tareas son las más importantes
+porque constituyen la base del funcionamiento de la plataforma.
+Para mí, una tarea está "terminada" cuando cumple con los siguientes criterios:
+
+* Funciona correctamente sin errores.
+* Fue probada y verificada.
+* Quedó registrada y documentada en Git con sus respectivos cambios.
