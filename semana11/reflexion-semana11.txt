@@ -1,0 +1,8 @@
+Una plataforma tecnológica que promueve la participación ciudadana debe contar
+ con una base de datos para almacenar y organizar la información de forma segura y ordenada. 
+ Esto permite hacer seguimiento a las causas, consultas y aportes de la comunidad.
+  Además, la autenticación de usuarios ayuda a identificar quién accede a la plataforma y qué acciones puede realizar según su rol.
+   De esta manera, se evita el acceso no autorizado a información importante. 
+   También es fundamental proteger los datos personales para garantizar la privacidad y la confianza de los usuarios. 
+   La seguridad de la información reduce el riesgo de pérdidas, alteraciones o usos indebidos de los datos. 
+   En conjunto, estos elementos hacen que la plataforma sea más confiable, transparente y útil para fortalecer la participación ciudadana.

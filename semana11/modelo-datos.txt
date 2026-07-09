@@ -1,0 +1,29 @@
+**Entidad: Causa**
+
+**Campos principales:**
+
+* id
+* titulo
+* descripcion
+* categoria
+* estado
+* fecha_creacion
+
+**Propósito:**
+Almacenar la información de las causas o problemáticas comunitarias que son registradas en la plataforma para su seguimiento y consulta.
+
+---
+
+**Entidad: Apoyo**
+
+**Campos principales:**
+
+* id
+* causa_id
+* usuario
+* tipo_apoyo
+* comentario
+* fecha
+
+**Propósito:**
+Registrar los apoyos o participaciones que recibe cada causa, permitiendo hacer seguimiento al nivel de participación de la comunidad y mantener un historial de las acciones realizadas.
