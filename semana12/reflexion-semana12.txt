@@ -1,0 +1,10 @@
+Durante este curso aprendí que la tecnología puede ser una herramienta muy útil para fortalecer la participación ciudadana.
+Comprendí que las plataformas digitales facilitan la comunicación entre la comunidad y las instituciones.
+También entendí que una herramienta como "Petición en 3 Clics" permite organizar mejor las necesidades de los ciudadanos.
+Aprendí la importancia de proteger los datos personales y solicitar únicamente la información necesaria.
+Además, conocí cómo la automatización puede agilizar procesos y mejorar el seguimiento de las solicitudes.
+Los temas de HTML, CSS, JavaScript, Node.js y las API me ayudaron a comprender cómo funciona una aplicación web.
+Otro aprendizaje importante fue que las soluciones tecnológicas deben ser sencillas y accesibles para cualquier persona.
+Igualmente, entendí que el trabajo colaborativo es fundamental para desarrollar proyectos con impacto social.
+Considero que la tecnología debe utilizarse para resolver problemas reales y mejorar la calidad de vida de las comunidades.
+En conclusión, este curso me permitió comprender que la innovación y la participación ciudadana pueden trabajar juntas para fortalecer la democracia.

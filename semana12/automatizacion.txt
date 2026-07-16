@@ -1,0 +1,10 @@
+Automatización con n8n o Telegram
+
+Evento que activa la automatización:
+Cuando una nueva causa es creada o cuando una causa alcanza el número de apoyos establecido, el sistema activa automáticamente una notificación.
+
+Mensaje que se envía:
+"Se ha registrado una nueva causa en la plataforma Petición en 3 Clics." o "La causa ha alcanzado el número de apoyos requerido y el documento PDF ya está disponible para su consulta."
+
+Información que no debe enviarse por seguridad:
+No se deben enviar datos personales como números de identificación, direcciones, teléfonos, correos electrónicos, contraseñas o cualquier otra información sensible de los ciudadanos. Solo debe compartirse la información necesaria sobre la causa y el estado de la notificación.
